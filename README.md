@@ -1,2 +1,2 @@
 # javiarmesto-githubfundamentals
-Labo
+Laboratorio
